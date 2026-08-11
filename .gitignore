@@ -1,0 +1,12 @@
+node_modules/
+.tanstack/
+dist/
+.output/
+.nitro/
+.wrangler/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+.vite/
